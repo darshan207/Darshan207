@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan Parmar</h1>
-<h3 align="center">A Per Final Year Engineering Student, A passionate Software and Web developer and a Competitive Programmer</h3>
+<h3 align="center">A Per Final Year Engineering Student, passionate software and web developer and a competitive programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan207&label=Profile%20views&color=0e75b6&style=flat" alt="darshan207" /> </p>
 
